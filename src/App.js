@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import Provider from './context/Provider';
 import Login from './pages/Login';
 import Comidas from './pages/Comidas';
@@ -24,6 +24,9 @@ function App() {
     <Provider>
       <BrowserRouter>
         <Switch>
+          <Route exact path="/">
+            <Redirect to="/recipes-app/" />
+          </Route>
           <Route
             exact
             path="/recipes-app/"
@@ -64,7 +67,7 @@ function App() {
             path="/recipes-app/perfil"
             component={ Perfil }
           />
-          <Route 
+          <Route
             exact
             path="/recipes-app/edit-profile"
             component={ EditPerfil }
