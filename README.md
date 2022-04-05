@@ -43,6 +43,8 @@ A base de dados são de duas APIs distintas, uma para comidas e outra para bebid
 
 ![image](screenshot.png)
 
+[Live Demo](http://lramos33-recipe-app.herokuapp.com/recipes-app/)
+
 _**Nota:**_ _A estilização/CSS desse projeto não está 100% finalizada pois o objetivo foi a construção da parte lógica e funcional da aplicação._
 
 ## 📝 Requisitos do projeto
