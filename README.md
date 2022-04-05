@@ -41,7 +41,9 @@ Este foi um projeto em grupo na qual desenvolvemos um app de receitas, utilizand
 
 A base de dados são de duas APIs distintas, uma para comidas e outra para bebidas.
 
-![image]()
+![image](screenshot.png)
+
+_**Nota:**_ _A estilização/CSS desse projeto não está 100% finalizada pois o objetivo foi a construção da parte lógica e funcional da aplicação._
 
 ## 📝 Requisitos do projeto
 
