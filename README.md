@@ -43,7 +43,7 @@ A base de dados são de duas APIs distintas, uma para comidas e outra para bebid
 
 ![image]()
 
-## ✅ Requisitos do projeto
+## 📝 Requisitos do projeto
 
 ### Testes unitários
 - [x] 1. Desenvolva os testes unitários de maneira que a cobertura seja de, no mínimo, 90%
