@@ -45,7 +45,7 @@ A base de dados são de duas APIs distintas, uma para comidas e outra para bebid
 
 [Live Demo](http://lramos33-recipe-app.herokuapp.com/recipes-app/)
 
-_**Nota:**_ _Para fazer login no aplicativo, basta utilizar algum email no formato `example@example.com` e uma senha qualquer de mais de 6 digitos._
+_**Nota:**_ _Para fazer login no aplicativo, basta utilizar um email qualquer no formato `example@example.com` e uma senha qualquer de mais de 6 digitos._
 
 _**Nota:**_ _A estilização/CSS desse projeto não está 100% finalizada pois o objetivo desse projeto foi a construção da parte lógica e funcional da aplicação._
 
